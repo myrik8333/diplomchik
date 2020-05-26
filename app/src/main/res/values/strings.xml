@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Diplom</string>
+    <string name="map">Карта вузов</string>
+    <string name="invite">Пригласить друзей</string>
+    <string name="Приглашение" />
+    <string name="invitation_title">Приглашение</string>
+    <string name="invitation_message">Не занешь куда поступить?? Изешь вуз своей мечты??? Заходи в приложение и быстро разберешься!!!</string>
+    <string name="invitation_deep_link">https://diplom1.page.link/qbvQ</string>
+    <string name="invitation_custom_image">sad</string>
+    <string name="invitation_cta">Ждем тебя</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.diplom.Vus"
+    android:id="@+id/menu">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="1"
+        android:title="Карта вузов" />
+    <item
+        android:id="@+id/save_settings"
+        android:orderInCategory="3"
+        android:title="Пригласить друзей" />
+</menu>
